@@ -1,0 +1,5 @@
+1,Dopler,false,Sat Aug 18 15:17:20 CEST 2018
+2,Volvo kamioni,true,Sat Aug 18 15:18:38 CEST 2018
+3,Demijan,true,Sat Aug 18 15:18:45 CEST 2018
+4,Norveska suma,false,null
+5,Sitnice koje zivot znace,false,null
